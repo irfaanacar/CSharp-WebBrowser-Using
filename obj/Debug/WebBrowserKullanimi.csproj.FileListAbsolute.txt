@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\WebBrowserKullanimi\bin\Debug\WebBrowserKullanimi.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\WebBrowserKullanimi\bin\Debug\WebBrowserKullanimi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\WebBrowserKullanimi\bin\Debug\WebBrowserKullanimi.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.pdb
